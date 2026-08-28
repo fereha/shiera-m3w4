@@ -18,8 +18,8 @@ A reusable starter project built with Vite and TypeScript.
 Clone the project:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/vite-ts-starter.git
-cd vite-ts-starter
+git clone https://github.com/fereha/shiera-m3w4.git
+
 ```
 
 Install dependencies:
